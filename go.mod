@@ -1,4 +1,4 @@
-module github.com/NoOneBoss/K6-MinecraftVUser
+module github.com/NoOneBoss/K6-Minecraft-VUser
 
 go 1.24
 
