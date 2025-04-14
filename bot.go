@@ -127,7 +127,7 @@ func (b *MinecraftBot) handleGamePackets() {
 // Обработчики событий
 func (b *MinecraftBot) onGameStart() error {
 	log.Println("Бот присоединился к игре")
-	return b.SendMessage("Привет от k6 бота!")
+	return nil
 }
 
 func (b *MinecraftBot) onPlayerMessage(msg chat.Message, validated bool) error {
