@@ -3,6 +3,8 @@
 
 [![xk6](https://img.shields.io/badge/build%20with-xk6-%23FF6C37)](https://github.com/grafana/xk6)
 
+![demo](https://i.imgur.com/C7Xundc.gif)
+
 ## Особенности
 - Подключение к Minecraft-серверам (1.20.2)
 - Обработка игровых событий (чат, смерть, здоровье)
