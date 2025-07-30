@@ -3,7 +3,7 @@
 
 [![xk6](https://img.shields.io/badge/build%20with-xk6-%23FF6C37)](https://github.com/grafana/xk6)
 
-![demo](https://i.imgur.com/C7Xundc.gif)
+![demo](https://i.ibb.co/yn0nLdJ1/bot-demo.gif)
 
 ## Особенности
 - Подключение к Minecraft-серверам (1.20.2)
